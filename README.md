@@ -20,30 +20,7 @@
 # 👨‍💻 About Me
 
 ```
-$ whoami
-Annadvi
 
-$ role
-Fullstack Developer
-
-$ location
-Indonesia
-
-$ current_focus
-- Building scalable Laravel applications
-- Creating modern UI/UX experiences
-- Exploring clean architecture patterns
-
-$ currently_learning
-- DevOps
-- System Design
-- Cloud Infrastructure
-
-$ interests
-- Pixel RPG Games
-- Open Source
-- UI Engineering
-- Creative Coding
 ```
 
 ---
