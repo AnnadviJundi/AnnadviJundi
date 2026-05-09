@@ -1,16 +1,17 @@
-
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Annadvi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20Laravel%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=240&section=header&text=Annadvi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20Laravel%20Engineer&descAlignY=58"/>
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Building+Modern+Web+Applications;Laravel+%2B+Next.js+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 
-[![](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
-[![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![](https://img.shields.io/badge/Open_Source-0ea5e9?style=for-the-badge)](#)
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AnnadviJundi&style=for-the-badge&color=0ea5e9" />
+<img src="https://img.shields.io/github/followers/AnnadviJundi?style=for-the-badge&color=0ea5e9" />
+<img src="https://img.shields.io/github/stars/AnnadviJundi?style=for-the-badge&color=0ea5e9" />
 
 </div>
 
@@ -18,53 +19,61 @@
 
 # 👨‍💻 About Me
 
-```yaml
-name: Annadvi
-located_in: Indonesia
-current_focus:
-  - Fullstack Web Development
-  - Modern UI/UX
-  - Scalable Laravel Apps
+```bash
+$ whoami
+Annadvi
 
-learning:
-  - DevOps
-  - Clean Architecture
-  - System Design
+$ role
+Fullstack Developer
 
-hobbies:
-  - Pixel RPG Games
-  - UI Engineering
-  - Building Cool Stuff
-````
+$ location
+Indonesia
+
+$ current_focus
+- Building scalable Laravel applications
+- Creating modern UI/UX experiences
+- Exploring clean architecture patterns
+
+$ currently_learning
+- DevOps
+- System Design
+- Cloud Infrastructure
+
+$ interests
+- Pixel RPG Games
+- Open Source
+- UI Engineering
+- Creative Coding
+```
 
 ---
 
-# ⚒️ Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,nextjs,vue,nodejs,js,ts,mysql,postgresql,tailwind,firebase,git,github,figma,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nextjs,vue,nodejs,mysql,postgresql,firebase,tailwind,git,github,figma,vscode&perline=8" />
 
 </div>
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
-| Project                       | Tech              |
-| ----------------------------- | ----------------- |
-| 🚚 Logistics Ticketing System | Laravel + MySQL   |
-| 🔐 RBAC Enterprise Dashboard  | Laravel + Vue     |
-| 🍅 Tomato AI Prediction       | JavaScript + ML   |
-| 🎮 Pixel RPG Game             | Godot + Pixel Art |
+| Project | Description |
+|---|---|
+| 🚚 Logistics Ticketing System | SLA monitoring & helpdesk platform built with Laravel |
+| 🔐 RBAC Enterprise Dashboard | Role & permission management with activity log |
+| 🍅 Tomato AI Prediction | Machine learning web application using Decision Tree |
+| 🎮 Pixel RPG Game | 2D pixel RPG game with modern gameplay system |
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -76,7 +85,7 @@ hobbies:
 
 ---
 
-# 🔥 Streak Stats
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -96,16 +105,16 @@ hobbies:
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/AnnadviJundi">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.instagram.com/annadvi_jundi">
-<img src="https://skillicons.dev/icons?i=instagram" />
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </div>
@@ -114,9 +123,9 @@ hobbies:
 
 <div align="center">
 
-### 「 Build Something Meaningful 」
+### ✨ 「 Build Something Meaningful 」
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=140&section=footer"/>
 
 </div>
-```
+````
