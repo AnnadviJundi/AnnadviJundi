@@ -1,88 +1,111 @@
-````md
+
 <div align="center">
 
-# Annadvi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Annadvi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20Laravel%20Engineer&descAlignY=58"/>
 
-### Fullstack Developer • Laravel Engineer • UI/UX Explorer
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications;Laravel+%2B+Next.js+Developer;Always+Learning+New+Things;Pixel+Game+Enthusiast" />
+<div align="center">
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AnnadviJundi&style=flat-square&color=0ea5e9" />
-<img src="https://img.shields.io/github/followers/AnnadviJundi?style=flat-square&color=0ea5e9" />
-<img src="https://img.shields.io/github/stars/AnnadviJundi?style=flat-square&color=0ea5e9" />
+[![](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+[![](https://img.shields.io/badge/Open_Source-0ea5e9?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## ⚡ About Me
+# 👨‍💻 About Me
 
-```ts
-const annadvi = {
-  role: "Fullstack Developer",
-  focus: ["Laravel", "Next.js", "Modern UI"],
-  currentlyLearning: ["Clean Architecture", "DevOps"],
-  interests: ["Pixel RPG", "UI Engineering", "Open Source"]
-}
+```yaml
+name: Annadvi
+located_in: Indonesia
+current_focus:
+  - Fullstack Web Development
+  - Modern UI/UX
+  - Scalable Laravel Apps
+
+learning:
+  - DevOps
+  - Clean Architecture
+  - System Design
+
+hobbies:
+  - Pixel RPG Games
+  - UI Engineering
+  - Building Cool Stuff
 ````
 
 ---
 
-## 🛠 Tech Stack
+# ⚒️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nodejs,nextjs,vue,mysql,postgresql,firebase,tailwind,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nextjs,vue,nodejs,js,ts,mysql,postgresql,tailwind,firebase,git,github,figma,vscode&perline=5" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                       | Description                                           |
-| ----------------------------- | ----------------------------------------------------- |
-| 🚚 Logistics Ticketing System | SLA monitoring & helpdesk platform built with Laravel |
-| 🔐 RBAC Management System     | Role & permission management with activity log        |
-| 🍅 Tomato Quality Prediction  | Decision Tree machine learning web application        |
-| 🎮 Pixel RPG Game             | 2D pixel RPG game with modern gameplay system         |
-
----
-
-## 📊 GitHub Analytics
+# 🚀 Current Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnnadviJundi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnadviJundi&layout=compact&theme=transparent&hide_border=true" />
+| Project                       | Tech              |
+| ----------------------------- | ----------------- |
+| 🚚 Logistics Ticketing System | Laravel + MySQL   |
+| 🔐 RBAC Enterprise Dashboard  | Laravel + Vue     |
+| 🍅 Tomato AI Prediction       | JavaScript + ML   |
+| 🎮 Pixel RPG Game             | Godot + Pixel Art |
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AnnadviJundi&theme=transparent&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnnadviJundi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnadviJundi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 </div>
 
 ---
 
-## 🌐 Connect
+# 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnnadviJundi&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/AnnadviJundi">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.instagram.com/annadvi_jundi">
-  <img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </div>
@@ -91,7 +114,9 @@ const annadvi = {
 
 <div align="center">
 
-### ✨ *"Code. Design. Build. Repeat."*
+### 「 Build Something Meaningful 」
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
 
 </div>
 ```
