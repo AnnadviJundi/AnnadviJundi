@@ -19,7 +19,7 @@
 
 # 👨‍💻 About Me
 
-``
+```
 $ whoami
 Annadvi
 
@@ -44,7 +44,7 @@ $ interests
 - Open Source
 - UI Engineering
 - Creative Coding
-``
+```
 
 ---
 
