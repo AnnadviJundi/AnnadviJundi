@@ -1,4 +1,4 @@
-````md
+``
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=240&section=header&text=Annadvi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20Laravel%20Engineer&descAlignY=58"/>
@@ -19,7 +19,7 @@
 
 # 👨‍💻 About Me
 
-```bash
+``
 $ whoami
 Annadvi
 
@@ -44,7 +44,7 @@ $ interests
 - Open Source
 - UI Engineering
 - Creative Coding
-```
+``
 
 ---
 
